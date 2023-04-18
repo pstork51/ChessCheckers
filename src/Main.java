@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        Game game = new Game();
+
+        
+        while (true) {
+        System.out.println(game.playGame());
+        }
+    }
+}
